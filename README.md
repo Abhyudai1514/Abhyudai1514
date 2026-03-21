@@ -29,13 +29,13 @@ Git, Jupyter Notebook, FastAPI
 
 ## Featured Projects
 
-### Scholarship Eligibility Prediction API
+### Scholarship Eligibility Prediction & Analysis API using Random Forest and FastAPI
 Machine learning API that predicts student scholarship eligibility using Random Forest and FastAPI deployment. The project demonstrates how predictive analytics can streamline scholarship evaluation processes.
 
 ### Customer Purchase Behavior Analysis
 Retail analytics project predicting customer purchase behavior using demographic attributes. Built using Python, Decision Tree classification, and Streamlit for interactive predictions.
 
-### Salary Analysis & Workforce Prediction
+### Employee Salary Analysis & Prediction using Regression for HR Analytics
 Predictive analytics project focused on salary forecasting using regression modeling. Demonstrates how data analysis can support HR planning and workforce insights.
 
 ---
